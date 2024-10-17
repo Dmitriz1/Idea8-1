@@ -18,6 +18,6 @@ public class Main {
         System.out.println("Отчество: " + post.pastronymic);
         System.out.println("Паспорт: " + post.passport);
         System.out.println("Номер телефона: " + post.phone);
-        System.out.println("Дата рождения: " + FormDate.day + "." + FormDate.month + "." + FormDate.year);
+        System.out.println("Дата рождения: " + formDate.day + "." + formDate.month + "." + formDate.year);
     }
 }
